@@ -1,0 +1,39 @@
+section.sidebar {
+    
+   float: left;
+   width: 200px;
+   margin-right: 30px;
+   
+   background-color: gray;
+   color: white;
+    
+}
+
+section.content {
+    
+    
+    
+}
+
+img {
+    float: right;
+    width: 100px;
+}
+
+footer, header {
+    
+    background-color: blue;
+    line-height: 5px;
+    padding: 15px;
+    color: #fff;
+    
+}
+
+header {
+    margin-bottom: 30px;
+}
+
+footer {
+    margin-top: 30px;
+    clear: both;
+}
